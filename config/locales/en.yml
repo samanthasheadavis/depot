@@ -27,3 +27,20 @@ en:
         questions: "Questions"
         news: "News"
         contact: "Contact"
+  store:
+      index:
+        title_html: "Your Pragmatic Catalog"
+        add_html: "Add to Cart"
+  carts:
+      cart:
+        title: "Your Cart"
+        empty: "Empty cart"
+        checkout: "Checkout"
+  number:
+      currency:
+        format:
+          unit: "$"
+          precision: 2
+          separator: "."
+          delimiter: ","
+          format: "%u%n"
